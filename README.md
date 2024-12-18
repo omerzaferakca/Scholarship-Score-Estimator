@@ -1,0 +1,1 @@
+Built a machine learning model to predict evaluation scores using key factors such as department, university GPA, and NGO membership. The model achieved an RMSE of 5.9746, providing accurate and actionable insights.
